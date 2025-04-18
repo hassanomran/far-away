@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/far-away/static/css/main.45d79bbb.css",
+    "main.js": "/far-away/static/js/main.df57ea11.js",
+    "index.html": "/far-away/index.html",
+    "main.45d79bbb.css.map": "/far-away/static/css/main.45d79bbb.css.map",
+    "main.df57ea11.js.map": "/far-away/static/js/main.df57ea11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45d79bbb.css",
+    "static/js/main.df57ea11.js"
+  ]
+}
